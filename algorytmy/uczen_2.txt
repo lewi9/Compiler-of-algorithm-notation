@@ -1,0 +1,17 @@
+Algorytm 6
+
+we: x,y, a#4
+wy: wynik
+
+1. powiekszacz <- x
+2. if( x>y ) goto 5
+3. powiekszacz <- y
+4. y <- x....
+5. x <- powiekszaczadasd
+6. temp <- x/y
+7. temp <- temp*y
+8. if( temp===x ) goto 11
+9. x <- powiekszacz + x
+10. goto 6
+11. wynik <- x,,
+12. end
